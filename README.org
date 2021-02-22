@@ -1,0 +1,2 @@
+* Description
+An implementation in Rust of the Minix operating system based on *Operating Systems, Design and Implementation*, by Andrew Tanenbaum.  
